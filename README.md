@@ -23,5 +23,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2013 Haralan Dobrev  
+Copyright (c) 2013 Haralan Dobrev
 Licensed under the MIT license.

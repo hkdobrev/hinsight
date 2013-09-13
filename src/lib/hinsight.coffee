@@ -11,4 +11,4 @@ Licensed under the MIT license.
 'use strict'
 
 exports.awesome = ()->
-  'awesome'
+	'awesome'

@@ -1,0 +1,17 @@
+# EditorConfig is awesome: http://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Defaults for every file
+[*]
+# Indent with tabs
+indent_style = tab
+# Unix-style new lines
+end_of_line = lf
+# UTF-8 FTW!!!
+charset = utf-8
+# Remote evil trailing spaces!
+trim_trailing_whitespace = true
+# New lines at the end of every file
+insert_final_newline = true
