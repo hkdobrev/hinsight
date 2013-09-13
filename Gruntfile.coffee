@@ -27,6 +27,10 @@ module.exports = (grunt)->
 					level: 'error'
 				max_line_length:
 					level: 'warn'
+				no_tabs:
+					level: 'ignore'
+				indentation:
+					level: 'ignore'
 		coffee:
 			lib:
 				expand: true
