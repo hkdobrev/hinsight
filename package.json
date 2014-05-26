@@ -28,6 +28,9 @@
 	"scripts": {
 		"test": "grunt test"
 	},
+	"dependencies": {
+		"insight": "~0.3.0"
+	},
 	"devDependencies": {
 		"grunt-contrib-watch": "~0.5.0",
 		"grunt-contrib-coffee": "~0.7.0",
